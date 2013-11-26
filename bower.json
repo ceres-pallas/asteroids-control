@@ -1,0 +1,24 @@
+{
+  "name": "asteroids-control",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ceres-pallas/asteroids-control",
+  "authors": [
+    "Robin van Kaathoven <robin.vankaathoven@luminis.eu>"
+  ],
+  "description": "A html5 device-orientation controller for the asteroids game",
+  "main": "index.html",
+  "keywords": [
+    "asteroids",
+    "controller",
+    "html5",
+    "device-orientation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
